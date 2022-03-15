@@ -1,6 +1,6 @@
 ### Hi there, I'm Feroz khan 👋
 
-- 🔭 I’m currently working on a [DEVICEX][website]!
+- 🔭 I’m currently working on a [TAZAH TECH][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -56,5 +56,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferozkhanmzai&show_icons=true&hide_border=true" />
 
-[website]: https://testing.devicex.io
+[website]: https://www.tazahtech.com/
 [twitter]: #
