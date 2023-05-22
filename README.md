@@ -1,6 +1,6 @@
 ### Hi there, I'm Feroz khan 👋
 
-- 🔭 I’m currently working on a [TAZAH TECH][website]!
+- 🔭 I’m currently working on a [PuppyDog][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
@@ -49,5 +49,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferozkhanmzai&show_icons=true&hide_border=true" />
 
-[website]: https://tazahglobal.com/
+[website]: https://alpha.puppydog.io/
 [twitter]: #
