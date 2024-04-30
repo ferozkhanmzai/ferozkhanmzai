@@ -1,7 +1,7 @@
 ### Hi there, I'm Feroz khan 👋
 
 - 🔭 I’m currently working on a [PuppyDog][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 
 <!-- ### Connect with me:
