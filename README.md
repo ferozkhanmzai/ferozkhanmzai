@@ -1,6 +1,6 @@
 ### Hi there, I'm Feroz khan 👋
 
-- 🔭 I’m currently working on a [PuppyDog][website]!
+- 🔭 I’m currently working on a [CRC][website]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 
@@ -47,9 +47,9 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferozkhanmzai&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ferozkhanmzai&show_icons=true&hide_border=true" /> -->
 
-[website]: https://alpha.puppydog.io/
+[website]: https://crehabconsultants.com
 [twitter]: #
 
 
